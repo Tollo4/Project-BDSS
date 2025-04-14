@@ -3,7 +3,7 @@
 This project was developed for the **Big Data in Social Science** course at the University of Bologna.  
 It includes a Quarto report analyzing global data from 2023, using R for data manipulation and visualization.
 
-## 📄 Files in this repository
+## Files in this repository
 
 - `Big Data Project_complete.qmd` — main Quarto document
 - `Big-Data-Project_complete.pdf` — rendered version of the report
@@ -12,9 +12,7 @@ It includes a Quarto report analyzing global data from 2023, using R for data ma
 - `Project BD.Rproj` — RStudio project file
 - `README.md` — project description (this file)
 
-## 🛠️ Tools & Packages
-
-## ⚙️ Technologies & Tools
+## Tools & Packages
 
 - [R](https://www.r-project.org/)
 - [Quarto](https://quarto.org/)
@@ -32,7 +30,7 @@ It includes a Quarto report analyzing global data from 2023, using R for data ma
 - [gt](https://gt.rstudio.com/)
 - [maps](https://cran.r-project.org/package=maps)
 
-## 🚀 How to Run
+## How to Run
 
 To re-render the report:
 
